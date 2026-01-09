@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ML
+checkpoints/
+logs/
+
+# Datasets
+datasets/
+LibriSpeech/
+
+# Jupyter
+.ipynb_checkpoints/
