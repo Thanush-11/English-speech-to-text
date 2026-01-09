@@ -19,3 +19,9 @@ checkpoints_en/
 *.pt
 *.pth
 *.ckpt
+
+checkpoints_en/
+*.pt
+*.pth
+*.ckpt
+
