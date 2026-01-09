@@ -14,3 +14,8 @@ LibriSpeech/
 
 # Jupyter
 .ipynb_checkpoints/
+
+checkpoints_en/
+*.pt
+*.pth
+*.ckpt
